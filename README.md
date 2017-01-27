@@ -15,4 +15,6 @@ Learn everything you need to about the subject of this `Project`.
 
 ## Topics
 ```
+[x] Installed brain2neo via python setup.py install
+[ ] Failing python -m brain2neo -f test/example.xml
 ```
